@@ -1,0 +1,16 @@
+C:\Users\blood\Desktop\Git\mark_plane_interface\plane_interface\bin\Debug\plane_interface.exe.config
+C:\Users\blood\Desktop\Git\mark_plane_interface\plane_interface\bin\Debug\plane_interface.exe
+C:\Users\blood\Desktop\Git\mark_plane_interface\plane_interface\bin\Debug\plane_interface.pdb
+C:\Users\blood\Desktop\Git\mark_plane_interface\plane_interface\bin\Debug\AirportLib.dll
+C:\Users\blood\Desktop\Git\mark_plane_interface\plane_interface\bin\Debug\AirportLib.pdb
+C:\Users\blood\Desktop\Git\mark_plane_interface\plane_interface\obj\Debug\plane_interface.csprojResolveAssemblyReference.cache
+C:\Users\blood\Desktop\Git\mark_plane_interface\plane_interface\obj\Debug\MainWindow.g.cs
+C:\Users\blood\Desktop\Git\mark_plane_interface\plane_interface\obj\Debug\App.g.cs
+C:\Users\blood\Desktop\Git\mark_plane_interface\plane_interface\obj\Debug\plane_interface_MarkupCompile.cache
+C:\Users\blood\Desktop\Git\mark_plane_interface\plane_interface\obj\Debug\plane_interface_MarkupCompile.lref
+C:\Users\blood\Desktop\Git\mark_plane_interface\plane_interface\obj\Debug\MainWindow.baml
+C:\Users\blood\Desktop\Git\mark_plane_interface\plane_interface\obj\Debug\plane_interface.g.resources
+C:\Users\blood\Desktop\Git\mark_plane_interface\plane_interface\obj\Debug\plane_interface.Properties.Resources.resources
+C:\Users\blood\Desktop\Git\mark_plane_interface\plane_interface\obj\Debug\plane_interface.csproj.GenerateResource.Cache
+C:\Users\blood\Desktop\Git\mark_plane_interface\plane_interface\obj\Debug\plane_interface.exe
+C:\Users\blood\Desktop\Git\mark_plane_interface\plane_interface\obj\Debug\plane_interface.pdb
